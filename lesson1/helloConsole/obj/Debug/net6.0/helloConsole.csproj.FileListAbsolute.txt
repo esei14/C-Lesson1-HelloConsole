@@ -1,0 +1,15 @@
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/bin/Debug/net6.0/helloConsole
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/bin/Debug/net6.0/helloConsole.deps.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/bin/Debug/net6.0/helloConsole.runtimeconfig.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/bin/Debug/net6.0/helloConsole.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/bin/Debug/net6.0/helloConsole.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.csproj.AssemblyReference.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.AssemblyInfoInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.AssemblyInfo.cs
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.csproj.CoreCompileInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/refint/helloConsole.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/helloConsole.genruntimeconfig.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/helloConsole/obj/Debug/net6.0/ref/helloConsole.dll
