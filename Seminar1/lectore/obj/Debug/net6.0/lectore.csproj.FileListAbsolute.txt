@@ -1,0 +1,15 @@
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/bin/Debug/net6.0/lectore
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/bin/Debug/net6.0/lectore.deps.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/bin/Debug/net6.0/lectore.runtimeconfig.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/bin/Debug/net6.0/lectore.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/bin/Debug/net6.0/lectore.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.csproj.AssemblyReference.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.AssemblyInfoInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.AssemblyInfo.cs
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.csproj.CoreCompileInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/refint/lectore.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/lectore.genruntimeconfig.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/Seminar1/lectore/obj/Debug/net6.0/ref/lectore.dll
