@@ -1,0 +1,15 @@
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/bin/Debug/net6.0/Dif
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/bin/Debug/net6.0/Dif.deps.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/bin/Debug/net6.0/Dif.runtimeconfig.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/bin/Debug/net6.0/Dif.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/bin/Debug/net6.0/Dif.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.csproj.AssemblyReference.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.AssemblyInfoInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.AssemblyInfo.cs
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.csproj.CoreCompileInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/refint/Dif.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/Dif.genruntimeconfig.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Dif/obj/Debug/net6.0/ref/Dif.dll

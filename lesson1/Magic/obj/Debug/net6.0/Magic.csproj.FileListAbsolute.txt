@@ -1,0 +1,15 @@
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/bin/Debug/net6.0/Magic
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/bin/Debug/net6.0/Magic.deps.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/bin/Debug/net6.0/Magic.runtimeconfig.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/bin/Debug/net6.0/Magic.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/bin/Debug/net6.0/Magic.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.csproj.AssemblyReference.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.AssemblyInfoInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.AssemblyInfo.cs
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.csproj.CoreCompileInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/refint/Magic.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/Magic.genruntimeconfig.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/Magic/obj/Debug/net6.0/ref/Magic.dll

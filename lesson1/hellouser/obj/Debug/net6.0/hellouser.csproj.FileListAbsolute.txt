@@ -1,0 +1,15 @@
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/bin/Debug/net6.0/hellouser
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/bin/Debug/net6.0/hellouser.deps.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/bin/Debug/net6.0/hellouser.runtimeconfig.json
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/bin/Debug/net6.0/hellouser.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/bin/Debug/net6.0/hellouser.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.csproj.AssemblyReference.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.AssemblyInfoInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.AssemblyInfo.cs
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.csproj.CoreCompileInputs.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/refint/hellouser.dll
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.pdb
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/hellouser.genruntimeconfig.cache
+/Users/suziaghajanyan/Desktop/GB/C# Course/lesson1/hellouser/obj/Debug/net6.0/ref/hellouser.dll
