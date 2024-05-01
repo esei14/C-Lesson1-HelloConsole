@@ -9,11 +9,7 @@ string input = Console.ReadLine();
 int number = Convert.ToInt32(input);
 int i = Convert.ToInt32(input);
 {
-if (number < 100)
-{
-Console.WriteLine("Не трёхзначное число");
-}
-else if (number > 999)
+if (number < 100 || number > 999)
 {
 Console.WriteLine("Не трёхзначное число");
 }
