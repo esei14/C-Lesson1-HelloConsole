@@ -4,7 +4,7 @@
 //2 -> " -2, -1, 0, 1, 2"
 
 Console.WriteLine("Введите число");
-string input = Console.ReadLine();
+string? input = Console.ReadLine();
 int number = Convert.ToInt32(input);
 for (int i = -number; i <= number; i++)
     {Console.Write(i);

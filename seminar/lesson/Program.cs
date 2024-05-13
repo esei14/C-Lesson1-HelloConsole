@@ -18,7 +18,7 @@
 // Convert.ToInt32(striing) => int
 
 Console.WriteLine("Введите число");
-string input = Console.ReadLine();
+string? input = Console.ReadLine();
 int number = Convert.ToInt32(input);
 int result = number * number;
 Console.WriteLine(result);

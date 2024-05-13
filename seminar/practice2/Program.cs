@@ -3,7 +3,7 @@
 //5 -> Пятница
 
 Console.WriteLine("Введите номер дня недели");
-string input = Console.ReadLine();
+string? input = Console.ReadLine();
 int number = Convert.ToInt32(input);
 
 if (number == 1)

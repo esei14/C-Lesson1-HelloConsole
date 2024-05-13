@@ -5,7 +5,7 @@
 
 
 Console.WriteLine("Введите трёхзначное число");
-string input = Console.ReadLine();
+string? input = Console.ReadLine ();
 int number = Convert.ToInt32(input);
 int i = Convert.ToInt32(input);
 {
